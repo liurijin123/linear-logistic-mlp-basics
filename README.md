@@ -4,11 +4,7 @@ GitHub 仓库：<https://github.com/liurijin123/linear-logistic-mlp-basics>
 
 仓库状态：已于 2026-08-11 上传并验证 `main` 分支。
 
-本目录对应文章：
-
-```text
-drafts/2026-08-10-从线性回归到多层感知器/ARTICLE.md
-```
+配套文章：《从线性回归到 MLP：深度学习训练机制解析》
 
 适用环境：Windows 10/11 64 位、NVIDIA GPU、Python 3.13。
 
