@@ -1,6 +1,8 @@
 # 线性回归、逻辑回归与 MLP：配套代码
 
-计划 GitHub 仓库：<https://github.com/liurijin123/linear-logistic-mlp-basics>（待上传并验证）
+GitHub 仓库：<https://github.com/liurijin123/linear-logistic-mlp-basics>
+
+仓库状态：已于 2026-08-11 上传并验证 `main` 分支。
 
 本目录对应文章：
 
