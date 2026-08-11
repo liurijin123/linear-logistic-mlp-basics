@@ -1,6 +1,6 @@
 # 线性回归、逻辑回归与 MLP：配套代码
 
-GitHub 仓库：<https://github.com/liurijin123/linear-logistic-mlp-basics>
+GitHub 仓库：https://github.com/liurijin123/linear-logistic-mlp-basics
 
 仓库状态：已于 2026-08-11 上传并验证 `main` 分支。
 
@@ -75,7 +75,7 @@ outputs/
 
 系列示例版本核对于 2026-08-11。若 PyTorch 官方安装命令已经变化，应先更新 `requirements-torch-cu126.txt`，再运行测试。
 
-pip 镜像配置参考：[清华大学开源软件镜像站 PyPI 使用帮助](https://mirrors.tuna.tsinghua.edu.cn/help/pypi/)。
+pip 镜像配置参考：清华大学开源软件镜像站 PyPI 使用帮助（https://mirrors.tuna.tsinghua.edu.cn/help/pypi/）。
 
 ## 验证记录
 
